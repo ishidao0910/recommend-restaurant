@@ -1,6 +1,9 @@
 # recommend-restaurant
 データを貯めてその結果を利用してレコメンドする機能をpythonで実装する練習のためのレポジトリです。<br>
 This is a repository to practice implementing a recommendation function in python that stores data and uses the results to make recommendations.
+
+アプリケーションはMVCモデルで作成しているので、ソフトウェアの基本設計も学ぶことができます。
+The applications are created using the MVC model, so you can also learn basic software design.
 <br></br>
 
 
